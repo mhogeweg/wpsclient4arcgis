@@ -13,6 +13,8 @@
 		<dependency>
 			<artifactId>arcobjects</artifactId>
 			<groupId>com.esri.arcgis</groupId>
+			<scope>system</scope>
+    			<systemPath>C:\PROGRA~2\ArcGIS\Desktop10.7\java\lib\arcobjects.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>org.n52.geoprocessing</groupId>
